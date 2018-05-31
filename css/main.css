@@ -12,13 +12,8 @@ html {
   height: 100%;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   margin: 0 0 35px;
   letter-spacing: 1px;
@@ -159,6 +154,20 @@ a:focus, a:hover {
     font-size: 22px;
   }
 }
+
+/* #apBreak {
+  color: white;
+  background: url("../img/smokeLine.jpg") no-repeat center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 375px;
+  margin-top: -200px;
+  margin-bottom: -150px;
+
+} */
 
 .btn-circle {
   font-size: 26px;
