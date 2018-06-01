@@ -303,3 +303,7 @@ img::-moz-selection {
 .image {
   border-radius: 10em;
 }
+
+.page {
+  background: url("../img/smokeLineBar.jpg") no-repeat bottom scroll;
+}
