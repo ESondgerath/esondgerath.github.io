@@ -5,6 +5,13 @@ body {
   height: 100%;
   color: white;
   background-color: black;
+  /* color: white; */
+  /* background: url("../img/smokeLine.jpg") no-repeat bottom absolute; */
+  /* background-color: black; */
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
 }
 
 html {
@@ -197,7 +204,7 @@ a:focus, a:hover {
 
 .download-section {
   color: white;
-  background: url("../img/background.jpg") no-repeat center scroll;
+  background: url("../img/greenSmoke.jpg") no-repeat center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
